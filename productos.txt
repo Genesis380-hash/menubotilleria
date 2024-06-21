@@ -1,0 +1,10 @@
+cod01, Whiskey, Jack Daniels, 750cc, 100, 18990
+cod02, Ron, Barcelo, 750cc, 100, 11290
+cod03, Cerveza, Corona, 330cc, 100, 1200
+cod04, Tequila, Sombrero, 750cc, 100, 13990
+cod05, Vodka, Black, 700cc, 100, 5500
+cod06, Amaretto, Disaronno, 700cc, 100, 23690
+cod07, Brandy, ST-Remy, 700cc, 100, 9950
+cod08, Anis, Oro dulce, 750cc, 100, 5500
+cod09, Energética, Monster, 476ml, 100, 1490
+cod10, Vino, Manquehuito, 750cc, 100, 2590
